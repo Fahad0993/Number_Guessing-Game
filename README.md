@@ -1,2 +1,2 @@
-# unit-01-guessing-game
- A number guessing game project
+# unit-01-number-guessing-game
+ A number guessing game project for python techdegree
